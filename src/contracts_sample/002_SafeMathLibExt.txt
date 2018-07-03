@@ -1,0 +1,31 @@
+Token name: WANG Coin
+
+Token ticker: wng
+
+Token decimals: 18
+
+Multisig wallet address: 0xF816DB6Fc5a774Ad62EE15A0Cbf318fC4722b583
+
+*****************************
+
+Crowdsale rate: 100
+
+Crowdsale start time: 2018-04-10T12:34 (GMT + 9)
+
+Crowdsale end time: 2018-04-10T13:00 (GMT + 9)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xbCF85F744Eb6eE3cD78e569bC8b03c1b813AB8cc
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
